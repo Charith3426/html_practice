@@ -13,7 +13,7 @@ if answer.lower()=='yes':
  
  
     answer=input('Question 2: Do you follow any author on AskPython? ')
-    if answer.lower()=='yes':
+    if answer.lower()=='yes':# if else condition
         score += 1
         print('correct')
     else:
