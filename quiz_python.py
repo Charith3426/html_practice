@@ -9,7 +9,7 @@ if answer.lower()=='yes':
         score += 1
         print('correct')
     else:
-        print('Wrong Answer :(')
+        print('wrong Answer :(')
  
  
     answer=input('Question 2: Do you follow any author on AskPython? ')
